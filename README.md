@@ -5,15 +5,19 @@ API data used in the project: http://112.74.99.5:3000/web/api
 
 ## Preview
 Home Page
+
 ![image](https://github.com/Aibono1/mock-bilibili/raw/master/pics/pic0.PNG)
 
 Register Page
+
 ![image](https://github.com/Aibono1/mock-bilibili/raw/master/pics/pic1.PNG)
 
 Video Page
+
 ![image](https://github.com/Aibono1/mock-bilibili/raw/master/pics/pic2.PNG)
 
 Category Setting
+
 ![image](https://github.com/Aibono1/mock-bilibili/raw/master/pics/pic3.PNG)
 
 
